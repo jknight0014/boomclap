@@ -24,7 +24,7 @@ var config = {
     app: {
       name: 'testapp'
     },
-    port: process.env.PORT || 3000,
+    port: process.env.port,
   }
 };
 
